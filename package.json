@@ -1,0 +1,10 @@
+{
+  "name": "now-redirect-slack",
+  "private": true,
+  "author": "Saasify <dev@saasify.sh>",
+  "repository": "saasify-sh/now-redirect-slack",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  }
+}
